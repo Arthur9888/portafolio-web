@@ -1,0 +1,86 @@
+@charset "utf-8";
+.diseño1 {
+    height: 1080px;
+}
+.fondo {
+    background-image: url(../IMAGENES/informacion.png);
+    background-position: 81% -3%;
+}
+.encabezado {
+    color: #FFFFFF;
+    width: 557px;
+    height: 89px;
+    margin-top: 44px;
+    margin-right: 44px;
+    margin-bottom: 44px;
+    margin-left: 44px;
+    font-family: Poppins, "Poppins Medium", "Poppins Light", "Poppins SemiBold";
+    font-size: 389%;
+    text-align: center;
+    border-width: 100px;
+    background-color: #154388;
+    border-radius: 20px;
+    padding-top: 19px;
+    padding-right: 19px;
+    padding-bottom: 19px;
+    padding-left: 19px;
+}
+.imagen {
+    width: 521px;
+    height: 319px;
+    margin-top: 49px;
+    margin-right: 558px;
+    margin-bottom: 604px;
+    margin-left: 274px;
+    -webkit-box-shadow: 15px 19px 30px;
+    box-shadow: 15px 19px 30px;
+}
+.imagen1 {
+    width: 277px;
+    height: 528px;
+    margin-left: -458px;
+    margin-bottom: 396px;
+    -webkit-box-shadow: 16px 12px 30px;
+    box-shadow: 16px 12px 30px;
+}
+.imagen2 {
+    width: 445px;
+    height: 309px;
+    margin-bottom: 193px;
+    margin-left: -882px;
+    min-width: 0px;
+    -webkit-box-shadow: 6px 6px 30px;
+    box-shadow: 6px 6px 30px;
+}
+.imagen3 {
+    width: 385px;
+    height: 272px;
+    margin-top: -13px;
+    margin-left: 523px;
+    margin-bottom: 367px;
+    -webkit-box-shadow: 14px 13px 25px;
+    box-shadow: 14px 13px 25px;
+}
+.inicio {
+    color: #FCFCFC;
+    font-family: Poppins, "Poppins Medium", "Poppins Light", "Poppins SemiBold";
+    font-size: 40px;
+    text-align: center;
+    background-color: #2557A4;
+    border-radius: 30px;
+    margin-top: -128px;
+    margin-right: -128px;
+    margin-bottom: -128px;
+    margin-left: -128px;
+    padding-left: 1143px;
+    width: 663px;
+    height: 59px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-top: 0px;
+}
+.texto {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: Poppins, "Poppins Medium", "Poppins Light", "Poppins SemiBold";
+}
